@@ -3,8 +3,6 @@ justinkarlwong.github.io
 
 Personal Website
 
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/justinkarlwong/justinkarlwong.github.io.git
-git push -u origin master
+Having no prior experience to any programming or web design whatsoever, I am trying to self teach myself some simple html and css to make sure I have some sort of foundation so I that I may better myself for the future.
+
+Am college graduate from UCSB, BS in Physics, and BA in Philosophy. 
