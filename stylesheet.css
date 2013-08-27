@@ -2,6 +2,21 @@ p {
 	font-size: 44px;
 }
 
+body {
+	background:url(https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=1343403ce0&view=att&th=13c047227525ab05&attid=0.1&disp=inline&safe=1&zw&saduie=AG9B_P_j7IsOGk42fu3Dc5S8E1-L&sadet=1377594612983&sads=HNrTIUdEj5EcPffDlLT_yc-yBYI&sadssc=1);
+	background size:cover;
+}
+
+
+
+
+
+
+
+
+
+
+/*Color change on hover*/
 button {
 	background:#0099ff;
 }
