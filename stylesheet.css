@@ -26,6 +26,7 @@ head {
 /*Color change on hover*/
 button {
 	background:#0099ff;
+	box-shadow:;
 }
 
 button:hover {
