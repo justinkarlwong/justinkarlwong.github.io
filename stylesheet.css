@@ -2,10 +2,10 @@ html{
 	min-height:100%;
 }
 
-p {
+#bio {
 	font-size: 100px;
 	color:white;
-	position:center;
+	position:center absolute;
 }
 
 body {
@@ -16,17 +16,20 @@ body {
 }
 
 head {
-	
+	font-size: 125px;
+	font-family:Garamond;
 }
 
-
+#email {
+	
+}
 
 
 
 /*Color change on hover*/
 button {
 	background:#0099ff;
-	box-shadow:5px 5px 5px 0 #000 inset;
+	box-shadow:5px 5px 5px 0 #000;
 }
 
 button:hover {
