@@ -2,36 +2,63 @@ html{
 	min-height:100%;
 }
 
-#bio {
-	font-size: 100px;
-	color:white;
-	position:center absolute;
-}
-
 body {
 	background:url(http://www.hdwallpapers.in/wallpapers/sunset_time-1920x1200.jpg); 
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:right;
+	opacity: .4;
 }
 
-head {
-	font-size: 125px;
-	font-family:Garamond;
+
+#container{
+	width:75%;
+	margin:auto;
 }
 
-#email {
+#title{
+	width: 100%;
+	text-align: center;
+	font-size:100px;
+	font-family: Courier;
+	color:yellow;
+}
+
+#bio {
+	font-size: 100px;
+	color:white;
+	opacity: 90%;
+}
+
+
+#buttoncontainer {
+	text-align: center;
 	
 }
 
+button{
+	width: 200px;
+	height: 200px;
+	background: #88bfe8; /* Old browsers */
+	background: -moz-linear-gradient(top, #88bfe8 0%, #70b0e0 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#88bfe8), color-stop(100%,#70b0e0)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #88bfe8 0%,#70b0e0 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #88bfe8 0%,#70b0e0 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #88bfe8 0%,#70b0e0 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #88bfe8 0%,#70b0e0 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#88bfe8', endColorstr='#70b0e0',GradientType=0 ); /* IE6-9 */
 
-
-/*Color change on hover*/
-button {
-	background:#0099ff;
-	box-shadow:5px 5px 5px 0 #000;
 }
 
-button:hover {
+#email:hover {
+	background:#ff0000;
+}
+
+
+#linkedin:hover {
+	background:#ff0000;
+}
+
+#github:hover {
 	background:#ff0000;
 }
