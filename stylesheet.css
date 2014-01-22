@@ -9,13 +9,14 @@ body {
 	background-position:right;
 }
 
-body{
-	background: url(http://www.hdwallpapers.in/wallpapers/sunset_time-1920x1200.jpg);
-}
 
 #mephoto{
+	height: 500px;
+	width: 500px;
+	background: url(https://scontent-b-pao.xx.fbcdn.net/hphotos-ash4/t1/1185100_10200357337841620_1430639528_n.jpg);
 	border-radius: 500px;
-	margin:auto;
+	margin: auto;
+	background-size: cover;
 }
 
 #container{
