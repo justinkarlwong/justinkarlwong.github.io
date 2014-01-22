@@ -7,9 +7,16 @@ body {
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:right;
-	opacity: .4;
 }
 
+body{
+	background: url(http://www.hdwallpapers.in/wallpapers/sunset_time-1920x1200.jpg);
+}
+
+#mephoto{
+	border-radius: 500px;
+	margin:auto;
+}
 
 #container{
 	width:75%;
