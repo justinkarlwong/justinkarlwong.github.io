@@ -11,8 +11,8 @@ body {
 
 
 #mephoto{
-	height: 500px;
-	width: 500px;
+	height: 200px;
+	width: 200px;
 	background: url(https://scontent-b-pao.xx.fbcdn.net/hphotos-ash4/t1/1185100_10200357337841620_1430639528_n.jpg);
 	border-radius: 500px;
 	margin: auto;
@@ -27,13 +27,13 @@ body {
 #title{
 	width: 100%;
 	text-align: center;
-	font-size:100px;
+	font-size:20px;
 	font-family: Courier;
 	color:yellow;
 }
 
 #bio {
-	font-size: 100px;
+	font-size: 18px;
 	color:white;
 	opacity: 90%;
 }
